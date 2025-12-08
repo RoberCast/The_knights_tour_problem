@@ -11,7 +11,7 @@ In this problem, it's important to consider that there will be a path or sequenc
 Below are images showing the implementation of both solutions.
 
 * Haskell execution:
-![Haskell execution](Images/Demo_Knight_Haskell.png)
+![Haskell execution](Images/Demo_Knight_haskell.png)
 
 * Prolog execution:
-![Haskell execution](Images/Demo_Knight_Haskell.png)
+![Haskell execution](Images/Demo_Knight_prolog.png)

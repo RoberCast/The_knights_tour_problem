@@ -14,3 +14,7 @@ A continuación, se muestran imágenes de la ejecución de ambas soluciones.
    
 ![Demo de knight.hs](Images/Demo_Knight_haskell.png)
 
+* Ejecución en Prolog:
+   
+![Demo de knight.hs](Images/Demo_Knight_prolog.png)
+

@@ -22,5 +22,4 @@ A continuación, se muestran imágenes de la ejecución de ambas soluciones.
 Este proyecto está licenciado bajo la Licencia Pública General GNU v3 (GPLv3).
 
 © 2025 Roberto Castillejo Embid. 
-
 Consulte el archivo [LICENSE](./LICENSE) para más detalle.

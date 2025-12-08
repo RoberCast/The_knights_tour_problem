@@ -17,3 +17,9 @@ Below are images showing the implementation of both solutions.
 * Prolog execution:
   
 ![Haskell execution](Images/Demo_Knight_prolog.png)
+
+## License
+This project is licensed under the GNU General Public License v3 (GPLv3). 
+
+© 2025 Roberto Castillejo Embid. 
+See the [LICENSE](./LICENSE) file for more details.

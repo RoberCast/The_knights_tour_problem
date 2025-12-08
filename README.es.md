@@ -11,7 +11,7 @@ En este problema hay que tener en cuenta que existirá un camino o secuencia de 
 A continuación, se muestran imágenes de la ejecución de ambas soluciones.
 
 1. Ejecución en Haskell:
-2. <img src="Images/Demo_Knight_haskell.png" alt="Demo de knight.hs" width=300">
+2. <img src="Images/Demo_Knight_haskell.png" alt="Demo de knight.hs" width=300" />
 ![Demo de knight.hs](Images/Demo_Knight_haskell.png)
 
 

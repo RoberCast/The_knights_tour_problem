@@ -11,5 +11,6 @@ En este problema hay que tener en cuenta que existirá un camino o secuencia de 
 A continuación, se muestran imágenes de la ejecución de ambas soluciones.
 
 1. Ejecución en Haskell:
+   
 ![Demo de knight.hs](Images/Demo_Knight_haskell.png)
 

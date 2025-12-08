@@ -18,3 +18,8 @@ A continuación, se muestran imágenes de la ejecución de ambas soluciones.
    
 ![Demo de knight.hs](Images/Demo_Knight_prolog.png)
 
+## Licencia
+Este proyecto está licenciado bajo la Licencia Pública General GNU v3 (GPLv3).
+
+© 2025 Roberto Castillejo Embid. 
+Consule el archivo [LICENSE](./LICENSE) para más detalle.

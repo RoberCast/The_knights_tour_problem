@@ -8,7 +8,10 @@ Se ha implementado la solución a este problema en Haskell y en Prolog, archivos
 En este problema hay que tener en cuenta que existirá un camino o secuencia de movimientos dependiendo del tamaño del tablero (no hay solución para N igual a 2, 3 o 4) y de la posición inicial que ocupe el caballo. Además, el problema tiene solución simétrica, por ejemplo, si existe solución para un tablero de tamaño N igual a 5 desde la casilla inicial (1,5), también existe solución para la casilla inicial (5,1) para un tablero del mismo tamaño.
 
 ## Imágenes de demostración
+A continuación, se muestran imágenes de la ejecución de ambas soluciones.
+
+1. Ejecución en Haskell: 
 ![Demo de knight.hs](Images/Demo_Knight_haskell.png)
 
-
+2. Ejecución en Prolog: 
 ![Demo de knight.pl]((Images/Demo_Knight_prolog.png)

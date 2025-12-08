@@ -10,4 +10,5 @@ En este problema hay que tener en cuenta que existirá un camino o secuencia de 
 ## Imágenes de demostración
 ![Demo de knight.hs](Images/Demo_Knight_haskell.png)
 
+
 ![Demo de knight.pl]((Images/Demo_Knight_prolog.png)

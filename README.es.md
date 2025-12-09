@@ -1,7 +1,7 @@
 # The knight's tour problem
 
 ## Introducción
-El problema del viaje del caballo (The knight's tour problem) es un problema matemático que consiste en encontrar la secuencia de movimientos realizados por el caballo de ajedrez en un tablero. El caballo tiene que visitar todas las casillas del tablero una única vez, es decir, no puede pasar dos o más veces por la misma casilla. El caballo puede terminar en la misma casilla en la que comenzó, lo que se llama camino cerrado, en caso contrario el camino sería abierto.
+El problema del viaje del caballo (the knight's tour problem) es un problema matemático que consiste en encontrar la secuencia de movimientos realizados por el caballo de ajedrez en un tablero. El caballo tiene que visitar todas las casillas del tablero una única vez, es decir, no puede pasar dos o más veces por la misma casilla. El caballo puede terminar en la misma casilla en la que comenzó, lo que se llama camino cerrado, en caso contrario el camino sería abierto.
 
 Se ha implementado la solución a este problema en Haskell y en Prolog, archivos *knight.hs* y *knight.pl* respectivamente. Para ello, se coloca un caballo de ajedrez en una casilla cualquiera de un tablero de NxN casillas, este caballo solo se puede mover de acuerdo a las reglas del ajedrez. Se comprueba si es posible encontrar un camino abierto que permita al caballo visitar todas las casillas del tablero una única vez. La implementación se ha hecho siguiendo un esquema de *Backtracking*.
 

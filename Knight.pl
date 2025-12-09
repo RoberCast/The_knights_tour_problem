@@ -1,5 +1,5 @@
 
-%		PROGRAM NAME: The journey of the chess knight.
+%		PROGRAM NAME: The knight's tour problem.
 %		AUTHOR: 	  Roberto Castillejo.
 %		VERSION:      1.0.
 
